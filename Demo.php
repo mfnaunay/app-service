@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-$saludo = 'prueba de intellisence...';
+$saludo = 'prueba de prueba de intellisense...';
 if($saludo != null)
         echo $saludo;
 
